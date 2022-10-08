@@ -1,0 +1,9 @@
+project: fx
+target: fx
+
+# Base image to run the binary in.
+image: pedbap/fx
+
+cmds:
+  - cmd: /fx
+    env: {}
