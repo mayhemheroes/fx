@@ -1,0 +1,6 @@
+project: fx
+target: fx
+
+cmds:
+  - cmd: /fx
+    env: {}
